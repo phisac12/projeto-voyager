@@ -1,0 +1,19 @@
+{
+    "name": "vercan/dark",
+    "description": "",
+    "type": "laravel-theme",
+    "version": "1",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Isaac",
+            "email": ""
+        }
+    ],
+    "extra": {
+        "theme": {
+            "parent": "",
+            "active": true
+        }
+    }
+}
